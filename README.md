@@ -19,6 +19,7 @@
 | 008 | [🍴 Fork Me Like Crazy (The Day the ʻohana Found Its Voice)](008-fork-me-like-crazy.md) | Track 3 — the forking summer | 2026-07-30 | C |
 | 009 | [🎓 A School Being Born (The August Rush)](009-a-school-being-born.md) | Taurus Institute + the Rush — Jul 31–Aug 1 2026 | 2026-08-01 | C |
 | 010 | [🌊 The Steady Tide (One Drop Is a Blessing, a Drop Every Month Is a Tide)](010-the-steady-tide.md) | Monthly giving goes live: the nudge, the aloha, the Stripe rail — Aug 4 2026 | 2026-08-04 | C |
+| 011 | [🌌🤖 Open Source the Universe (The Night a Robot Tipped the Pool)](011-open-source-the-universe.md) | First machine payment: MPP tip jar, tip.blessingpool.com, the agent that onboarded itself — Aug 8 2026 | 2026-08-08 | C |
 
 *Numbered in order of indexing; the date column is the truth. (004–009 were written before the songbook had one home — gathered here Aug 4 2026, "the songbook should have all our songs" — Shaka.)*
 
