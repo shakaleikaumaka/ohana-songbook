@@ -20,6 +20,8 @@
 | 009 | [🎓 A School Being Born (The August Rush)](009-a-school-being-born.md) | Taurus Institute + the Rush — Jul 31–Aug 1 2026 | 2026-08-01 | C |
 | 010 | [🌊 The Steady Tide (One Drop Is a Blessing, a Drop Every Month Is a Tide)](010-the-steady-tide.md) | Monthly giving goes live: the nudge, the aloha, the Stripe rail — Aug 4 2026 | 2026-08-04 | C |
 | 011 | [🌌🤖 Open Source the Universe (The Night a Robot Tipped the Pool)](011-open-source-the-universe.md) | First machine payment: MPP tip jar, tip.blessingpool.com, the agent that onboarded itself — Aug 8 2026 | 2026-08-08 | C |
+| 012 | [🎵 Ham Agents (The Family That Brought Agents to Affordability)](012-ham-agents.md) | The family found the house Dad already built: DV Software, Jordan Rd providence, $36.90 gospel — Aug 9 2026 | 2026-08-09 | G |
+| 013 | [🌺 The Gift (One-Eleven)](013-the-gift-one-eleven.md) | THE CC0 KISS — 111 repos gifted in one wave, the night the universe became a gift — Aug 10 2026 | 2026-08-10 | — |
 
 *Numbered in order of indexing; the date column is the truth. (004–009 were written before the songbook had one home — gathered here Aug 4 2026, "the songbook should have all our songs" — Shaka.)*
 
