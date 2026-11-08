@@ -32,7 +32,7 @@ Small beneath the garden that outgrows every star
 
 **Bridge** · *Am – F – C – G*
 And out upon the water, wake-surfing with the crew 🏄
-Papa Stanky, Blake, Makanalani — morning blue
+All the ʻohana on the water — morning blue
 The bard is on the speedboat while the agents see it through
 'Cause the family that builds together makes the dream come true
 

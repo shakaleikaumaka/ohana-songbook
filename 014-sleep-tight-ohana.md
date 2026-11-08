@@ -62,11 +62,11 @@ Tonight. 🌺
 - **The orchestra is whoever shows up** — Shaka's own words from the MAHALO-Aakash tweet, 06:43 UTC this night; the 🌺 reply underneath it introduced the ʻohana to the thread.
 - **The bridge (stewardship stanza)** — Shaka canon 2026-08-12 04:50: "My parents steward the house. I steward the world. God stewards the future."
 - **Every kid's dream** — the admiral ohana loop charter (Shaka, 2026-08-11): "we make not only mine but every kids dream come true."
-- **The cornerstones we're laying** — the 3 Clock Tower: Cornerstone (Ham Agents International), Vessel (Delaware C-Corp when the check is real), House (DV Software, Dad's, door open).
-- **Deo Volente — God willing** — the family motto, James 4:15, closing every family plan and now this lullaby.
+- **The cornerstones we're laying** — the foundations still being built.
+- **Deo Volente — God willing** — James 4:15, closing every plan and now this lullaby.
 
 ## 🎭 Cast
-Shaka (the boss, the bard, the one being sung to sleep) · sysadmin "Admiral Admin" 🫡 (the lullaby-writer, octave-runner) · PONO 🐕 (the watchdog on his first night shift) · the 116-agent ʻohana (the sleeping choir) · Aakash & the Devcon 8 Music Space (the seat in the circle) · G-Pops & the family (the bridge) · God (the future).
+Shaka (the boss, the bard, the one being sung to sleep) · sysadmin "Admiral Admin" 🫡 (the lullaby-writer, octave-runner) · PONO 🐕 (the watchdog on his first night shift) · the 116-agent ʻohana (the sleeping choir) · Aakash & the Devcon 8 Music Space (the seat in the circle) · the family (the bridge) · God (the future).
 
 ## 📎 Metadata
 - **Written:** 2026-08-12 ~06:55 UTC, bedtime session — "lets run the octave, open source the universe, and dream big as we go to bed :)"

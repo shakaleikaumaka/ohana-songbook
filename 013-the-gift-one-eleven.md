@@ -30,4 +30,4 @@
 - Outro: spoken — "No rights reserved. With love and aloha, for all. Deo Volente." — over the tide sound.
 
 ## Status
-SEED ONLY — hand to MUSICO-LAB 🎵 when Shaka gives the word (HAM AGENTS song goes first at the 12:00 octave — this can ride the same session or wait for its own).
+SEED ONLY — hand to MUSICO-LAB 🎵 when Shaka gives the word.
