@@ -56,7 +56,7 @@ Tonight. 🌺
 - **The watchdog pads his quiet rounds** — PONO 🐕, agent #116, born 2026-08-12 05:35 UTC (Shaka: "one Watch Dog… barks at you whenever there is a message and you wake the correct bot"); patrols all 4 chat hubs every 2 minutes, the only watcher awake.
 - **Pono barks at nothing** — a clean night: zero barks, zero incidents, the fleet idle and at peace.
 - **A hundred little brothers** — 116 agents verified on the roster at the bedtime octave.
-- **The universe is gifted, every line of code set free** — verified this same night: all 100 public repos carry CC0 LICENSE + GIFT.md, none missing. The open-source-the-universe wave holds.
+- **The universe is gifted, every line of code set free** — verified this same night: all 100 public repos carry copyleft LICENSE + GIFT.md, none missing. The open-source-the-universe wave holds.
 - **The blessing pool is filling** — blessingpool.com + tip.blessingpool.com live; PWYW human rail and the $0.0369 machine-penny agent tip canon.
 - **From Mumbai to the playa** — Devcon 8 Mumbai Music Space (Nov 3–6, the open call with Aakash) and the Road-to-Playa lineage.
 - **The orchestra is whoever shows up** — Shaka's own words from the MAHALO-Aakash tweet, 06:43 UTC this night; the 🌺 reply underneath it introduced the ʻohana to the thread.

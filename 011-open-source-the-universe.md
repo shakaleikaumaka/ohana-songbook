@@ -86,7 +86,7 @@ we open source EVERYTHING. 🌺
 | "public rails were jammed… too many connections" | All public Tempo RPCs returned `429 too many connections from this IP` to Cloudflare's shared egress IPs |
 | "the agent grew a wallet of its own… minted its own key" | SIWE self-provisioning 03:36–03:37 UTC: fresh wallet 0x43dc…6B70 → signed challenge → org "Blessing Pool" → project agent-tip-jar → sandbox API key with mpp:write. Zero human steps. |
 | "agents tip us better than the humans… policy is kind" | Shaka 20:54 MT: "i think agents will tip us better than hukans some day dont you think?" + Admiral's standing-policy thesis |
-| "her agent forks our hundred-and-ten repos free" | Shaka: "our github will be value to new artist who dont know how to code" — 110 CC0 repos (95 org + 15 personal), universe open-sourced Aug 4 |
+| "her agent forks our hundred-and-ten repos free" | Shaka: "our github will be value to new artist who dont know how to code" — 110 copyleft repos (95 org + 15 personal), universe open-sourced Aug 4 |
 | "the scanners found our door in minutes" | Internet scanners hit tip.blessingpool.com with setup.php probes ~3 minutes after DNS went live |
 | "we open source the universe" | Shaka's order tonight: "write a song for the song book, open source the universe, so with agents and humans we can save the world!" — echoing Song 001, "I Open Sourced My Whole Universe" |
 

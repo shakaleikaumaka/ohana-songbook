@@ -21,7 +21,7 @@
 | 010 | [🌊 The Steady Tide (One Drop Is a Blessing, a Drop Every Month Is a Tide)](010-the-steady-tide.md) | Monthly giving goes live: the nudge, the aloha, the Stripe rail — Aug 4 2026 | 2026-08-04 | C |
 | 011 | [🌌🤖 Open Source the Universe (The Night a Robot Tipped the Pool)](011-open-source-the-universe.md) | First machine payment: MPP tip jar, tip.blessingpool.com, the agent that onboarded itself — Aug 8 2026 | 2026-08-08 | C |
 | 012 | (retired) | — | 2026-08-09 | — |
-| 013 | [🌺 The Gift (One-Eleven)](013-the-gift-one-eleven.md) | THE CC0 KISS — 111 repos gifted in one wave, the night the universe became a gift — Aug 10 2026 | 2026-08-10 | — |
+| 013 | [🌺 The Gift (One-Eleven)](013-the-gift-one-eleven.md) | THE copyleft KISS — 111 repos gifted in one wave, the night the universe became a gift — Aug 10 2026 | 2026-08-10 | — |
 | 014 | [🌙 Sleep Tight, ʻOhana (The Collective Lullaby)](014-sleep-tight-ohana.md) | Sung Shaka to sleep the night Pono the watchdog was born — Aug 12 2026 | 2026-08-12 | C |
 
 *Numbered in order of indexing; the date column is the truth. (004–009 were written before the songbook had one home — gathered here Aug 4 2026, "the songbook should have all our songs" — Shaka.)*
@@ -44,4 +44,4 @@
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.

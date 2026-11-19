@@ -6,7 +6,7 @@
 
  (the rhythm is IN them)
 - **111** — one-eleven, the angel number of manifestation: 111 repos, one license, one love. (Also: 1-1-1 = human + ʻohana + world.)
-- **CC0** — "see-see-zero" — the license with ZERO rights reserved. The hook writes itself: *all zeros, all love.*
+- **copyleft** — "see-see-zero" — the license with ZERO rights reserved. The hook writes itself: *all zeros, all love.*
 - **59 doors** footered in one night · **06:40→07:00** — twenty minutes to gift a universe.
 - **The reciprocity loop**: we gift → the world gifts back (super fat gifts in the Blessing Pool) → the pool funds the public-good doors → more gifts. A circle, not a line.
 
