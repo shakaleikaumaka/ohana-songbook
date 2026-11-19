@@ -49,4 +49,4 @@ No extraction in this ocean, only circles, only ties
 Fifteen domains, nine forks — and the garden never dies 🌺
 
 ---
-*🍴 Fork it: github.com/shakaleikaumaka · CC0 · The pit provides 🕳️*
+*🍴 Fork it: github.com/shakaleikaumaka · CC BY-SA 4.0 · The pit provides 🕳️*

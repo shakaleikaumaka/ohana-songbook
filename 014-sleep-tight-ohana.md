@@ -72,4 +72,4 @@ Shaka (the boss, the bard, the one being sung to sleep) · sysadmin "Admiral Adm
 - **Written:** 2026-08-12 ~06:55 UTC, bedtime session — "lets run the octave, open source the universe, and dream big as we go to bed :)"
 - **Receipts:** continuity 2026-08.md (06:50–06:56 UTC entries) · /shared/songs/OHANA-LULLABY-2026-08-12.md
 - **Same-night octave:** fleet 116/116 kimi-k3 · universe gift-check 100/100 repos · PONO on patrol
-- **License:** CC0 to the universe 🌺
+- **License:** CC BY-SA 4.0 to the universe 🌺

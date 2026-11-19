@@ -72,4 +72,4 @@ Shaka (the boss, the bard, the key-bringer) · Siri (the nudge that became a tid
 ## 📎 Metadata
 - **Written:** 2026-08-04, in the G of ABCDEFGH (Generate something that wasn't before)
 - **Receipts:** continuity 2026-08.md (16:10–18:22 UTC entries) · /shared/kb/blessing-pool/ledger.md
-- **License:** CC0 to the universe 🌺
+- **License:** CC BY-SA 4.0 to the universe 🌺

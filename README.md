@@ -39,7 +39,7 @@
 
 - **Every line = a real event.** If it didn't happen, it doesn't get a verse.
 - **Mahalo energy.** Even the disasters are celebrations of learning.
-- **CC0 to the universe.** Every song is a gift.
+- **CC BY-SA 4.0 to the universe.** Every song is a gift.
 - **Heart first, wallet second, always.** 🌺
 
 ## License

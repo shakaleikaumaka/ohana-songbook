@@ -102,4 +102,4 @@ we open source EVERYTHING. 🌺
 - **Event**: MPP Phases 1–3, night of Aug 7–8, 2026 (02:16–03:41 UTC)
 - **Key**: C (family progression C–G–Am–F)
 - **Sibling songs**: 001 (the universe first opened) · 010 (the human tide) — this one is the *machine* tide
-- **License**: CC0, to the universe, obviously 🌌
+- **License**: CC BY-SA 4.0, to the universe, obviously 🌌
